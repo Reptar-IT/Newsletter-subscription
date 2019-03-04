@@ -1,5 +1,5 @@
 # Newsletter-subscription
-A handy tool with a slick design built to handle email subscriptions.
+A mailing app with a slick design built to handle email subscriptions.
 
 # What I learned
 Creating web applications from scratch that interacts with API using:
