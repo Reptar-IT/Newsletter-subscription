@@ -9,6 +9,7 @@ Creating web applications from scratch that interacts with API using:
 - Request
 - Body Parser
 - Mailchimp
+- JSON stringify
 - Git
 - gitignore
 - Heroku
