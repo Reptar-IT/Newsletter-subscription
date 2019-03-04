@@ -13,3 +13,11 @@ Creating web applications from scratch that interacts with API using:
 - Git
 - gitignore
 - Heroku
+
+# How to install
+
+Enter the root directory within your terminal.
+Enter the command '-nmp i'.
+
+From the root directory, use your editor to open the app.js file.
+Enter your mailchimp API Key in the empty string for the 'var mailChimApiKey = "yourKey" '.
